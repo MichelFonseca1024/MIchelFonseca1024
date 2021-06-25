@@ -6,7 +6,7 @@
 ### What I'm working on 👨‍💻
 
 🔭 &nbsp; I’m currently working on [ClassSchedule](https://class-schudele.web.app/) <br>
-🌱 &nbsp; I’m currently learning Node.js, Typescript, Nest.js... <br>
+🌱 &nbsp; I’m currently learning Node.js, Typescript, Nuxt.js ... <br>
 👯 &nbsp; I’m looking to collaborate on open source projects<br>
 
 ### 📫 How to reach me? 🌎
